@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "6386471491",
+    "firebase_url": "https://cheongnam-acfca-default-rtdb.firebaseio.com",
+    "project_id": "cheongnam-acfca",
+    "storage_bucket": "cheongnam-acfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6386471491:android:378a095878cb488f4a3af6",
+        "android_client_info": {
+          "package_name": "com.cheongnam.church"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6386471491-saookolvnehhkkc1gfll7e7vet8nlpfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cheongnam.church",
+            "certificate_hash": "3c959aeb5eb6d1df35d4608b015159cc8593ca99"
+          }
+        },
+        {
+          "client_id": "6386471491-k09b2l1n1qqui2q00vquk1lkol2t3r4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKTklVy4ol_EwNOLEkd87IS3Obe8KsG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6386471491-k09b2l1n1qqui2q00vquk1lkol2t3r4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6386471491-gghvvnqm2hnsd5p4joeq7dgfeoc8ft2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cheongnam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6386471491:android:5e7bf49d238a896e4a3af6",
+        "android_client_info": {
+          "package_name": "com.example.cheongnam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6386471491-rhlq36rq0o5omeh8hphkegmil622svmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cheongnam",
+            "certificate_hash": "3c959aeb5eb6d1df35d4608b015159cc8593ca99"
+          }
+        },
+        {
+          "client_id": "6386471491-k09b2l1n1qqui2q00vquk1lkol2t3r4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKTklVy4ol_EwNOLEkd87IS3Obe8KsG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6386471491-k09b2l1n1qqui2q00vquk1lkol2t3r4d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6386471491-gghvvnqm2hnsd5p4joeq7dgfeoc8ft2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cheongnam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
